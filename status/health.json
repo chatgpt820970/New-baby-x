@@ -1,17 +1,23 @@
 {
-  "last_checked_at": null,
+  "last_checked_at": "2026-10-28T03:10:27+05:30",
   "timezone": "Asia/Kolkata",
-  "queue_count": 0,
+  "queue_count": 1,
   "ready_count": 0,
   "low_queue": true,
   "low_queue_threshold": 5,
-  "message": "Ready backlog is 0, below 5. Add watermark-checked clips to queue/.",
+  "message": "Ready backlog is 0, below 5. Unprepared queue items: 1. Refill queue/ with watermark-checked clips.",
   "last_post": null,
   "failures_last_24h": [],
   "next_open_slot": null,
-  "next_open_slot_reason": "not_armed",
-  "slots": ["03:30", "07:30", "18:30", "21:30", "23:30"],
+  "next_open_slot_reason": "none",
+  "slots": [
+    "03:30",
+    "07:30",
+    "18:30",
+    "21:30",
+    "23:30"
+  ],
   "min_short_side": 1080,
-  "active_from": null,
+  "active_from": "2026-10-28T03:10:27+05:30",
   "last_post_at": null
 }
