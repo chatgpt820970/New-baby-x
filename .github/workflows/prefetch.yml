@@ -1,0 +1,56 @@
+name: prefetch
+
+on:
+  schedule:
+    # A few hours apart, offset from the :00/:30 slot checks.
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Quality-check the oldest queue item without moving it"
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: clips-poster
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  prefetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install -r requirements.txt
+
+      - name: Prefetch and quality-check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python -m poster prefetch --dry-run
+          else
+            python -m poster prefetch
+          fi
+
+      - name: Commit queue state
+        if: always()
+        run: bash scripts/commit_state.sh "chore: prefetch clips into ready"

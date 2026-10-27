@@ -1,0 +1,17 @@
+{
+  "last_checked_at": null,
+  "timezone": "Asia/Kolkata",
+  "queue_count": 0,
+  "ready_count": 0,
+  "low_queue": true,
+  "low_queue_threshold": 5,
+  "message": "Ready backlog is 0, below 5. Add watermark-checked clips to queue/.",
+  "last_post": null,
+  "failures_last_24h": [],
+  "next_open_slot": null,
+  "next_open_slot_reason": "not_armed",
+  "slots": ["03:30", "07:30", "18:30", "21:30", "23:30"],
+  "min_short_side": 1080,
+  "active_from": null,
+  "last_post_at": null
+}
