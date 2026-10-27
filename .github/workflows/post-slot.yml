@@ -1,0 +1,59 @@
+name: post-slot
+
+on:
+  schedule:
+    # Every 30 minutes. The script, not the cron, decides which IST slot is due.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Do everything except the Buffer publish call"
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: clips-poster
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install -r requirements.txt
+
+      - name: Publish one due slot
+        id: post
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python -m poster slot --dry-run
+          else
+            python -m poster slot
+          fi
+
+      - name: Commit queue state
+        if: always()
+        run: bash scripts/commit_state.sh "chore: record clip slot run"
