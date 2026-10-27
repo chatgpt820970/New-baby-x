@@ -53,4 +53,5 @@ jobs:
 
       - name: Commit queue state
         if: always()
-        run: bash scripts/commit_state.sh "chore: prefetch clips into ready"
+        run: |
+          bash scripts/commit_state.sh "chore: prefetch clips into ready"

@@ -56,4 +56,5 @@ jobs:
 
       - name: Commit queue state
         if: always()
-        run: bash scripts/commit_state.sh "chore: record clip slot run"
+        run: |
+          bash scripts/commit_state.sh "chore: record clip slot run"
