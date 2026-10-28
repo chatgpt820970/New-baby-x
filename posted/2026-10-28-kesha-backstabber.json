@@ -1,6 +1,6 @@
 {
   "source_url": "https://x.com/PopBase/status/2114404467978235971",
-  "caption": "Kesha pulled up in that Trans Am and every dad in 2010 suddenly had to \"go get milk\" 😭",
+  "caption": "Kesha pulled up in that Trans Am and every dad in 2010 suddenly had to \"go get milk\" \ud83d\ude2d",
   "watermark_checked": true,
   "video_file": "media/kesha-backstabber.mp4",
   "enqueued_at": "2026-10-28T04:10:00+05:30",
@@ -18,5 +18,10 @@
     "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
   },
   "trimmed": false,
-  "prepared_at": "2026-10-28T07:41:22+05:30"
+  "prepared_at": "2026-10-28T07:41:22+05:30",
+  "buffer_post_id": "6ae15a2ced0a3f2cb418b344",
+  "channel_id": "6ae10a7b2f1f5ed648f05023",
+  "posted_at": "2026-10-28T07:41:30+05:30",
+  "slot": "2026-10-28T07:30+05:30",
+  "note": "state recorded manually: run's commit step hit a rebase conflict after the Buffer post succeeded"
 }

@@ -17,5 +17,15 @@ fi
 git commit -m "${1:-chore: update clip poster state}"
 
 branch="${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
-git pull --rebase origin "$branch"
-git push origin "HEAD:${branch}"
+# Retry: other workflows (prefetch, manual queue pushes) may commit at the same time.
+# On conflicts in status/logs, keep this run's version (-X theirs = the commit being replayed).
+for attempt in 1 2 3 4 5; do
+  if git pull --rebase -X theirs origin "$branch" && git push origin "HEAD:${branch}"; then
+    exit 0
+  fi
+  git rebase --abort 2>/dev/null || true
+  echo "commit_state: attempt ${attempt} failed, retrying" >&2
+  sleep $((attempt * 5))
+done
+echo "commit_state: could not push poster state" >&2
+exit 1
