@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-10-28T03:32:15+05:30",
+  "last_checked_at": "2026-10-28T06:20:50+05:30",
   "timezone": "Asia/Kolkata",
-  "queue_count": 0,
+  "queue_count": 3,
   "ready_count": 0,
   "low_queue": true,
   "low_queue_threshold": 5,
-  "message": "Ready backlog is 0, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
+  "message": "Ready backlog is 0, below 5. Unprepared queue items: 3. Refill queue/ with watermark-checked clips.",
   "last_post": {
     "posted_at": "2026-10-28T03:32:15+05:30",
     "slot": "2026-10-28T03:30+05:30",
