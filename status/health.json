@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-10-28T18:19:49+05:30",
+  "last_checked_at": "2026-10-28T18:48:18+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 3,
+  "ready_count": 2,
   "low_queue": true,
   "low_queue_threshold": 5,
-  "message": "Ready backlog is 3, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
+  "message": "Ready backlog is 2, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
   "last_post": {
-    "posted_at": "2026-10-28T07:41:30+05:30",
-    "slot": "2026-10-28T07:30+05:30",
-    "buffer_post_id": "6ae15a2ced0a3f2cb418b344",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-kesha-backstabber-021122.mp4",
-    "source_url": "https://x.com/PopBase/status/2114404467978235971",
-    "file": "posted/2026-10-28-kesha-backstabber.json"
+    "posted_at": "2026-10-28T18:48:18+05:30",
+    "slot": "2026-10-28T18:30+05:30",
+    "buffer_post_id": "6ae1f61bc5d58d36138f7746",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-tyla-chanel-021122.mp4",
+    "source_url": "https://x.com/PopCrave/status/2113843927463661610",
+    "file": "posted/2026-10-28-tyla-chanel.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-10-28T07:41:30+05:30"
+  "last_post_at": "2026-10-28T18:48:18+05:30"
 }
