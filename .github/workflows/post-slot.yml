@@ -3,7 +3,9 @@ name: post-slot
 on:
   schedule:
     # Every 30 minutes. The script, not the cron, decides which IST slot is due.
-    - cron: "*/30 * * * *"
+    # Off-peak minutes (GitHub drops many :00/:30 runs) + one run 3 min after each IST slot.
+    - cron: "7,37 * * * *"
+    - cron: "33 2,13,16,18,22 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
