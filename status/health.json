@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-10-28T06:20:50+05:30",
+  "last_checked_at": "2026-10-28T07:41:22+05:30",
   "timezone": "Asia/Kolkata",
-  "queue_count": 3,
-  "ready_count": 0,
+  "queue_count": 0,
+  "ready_count": 3,
   "low_queue": true,
   "low_queue_threshold": 5,
-  "message": "Ready backlog is 0, below 5. Unprepared queue items: 3. Refill queue/ with watermark-checked clips.",
+  "message": "Ready backlog is 3, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
   "last_post": {
     "posted_at": "2026-10-28T03:32:15+05:30",
     "slot": "2026-10-28T03:30+05:30",
@@ -15,8 +15,8 @@
     "file": "posted/2026-10-28-demo-aura-2036.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-10-28T07:30+05:30",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",

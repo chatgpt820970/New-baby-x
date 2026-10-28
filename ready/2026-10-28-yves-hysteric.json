@@ -1,0 +1,22 @@
+{
+  "source_url": "https://x.com/PopBase/status/2114265710662676807",
+  "caption": "Some women don't need the whole song. Seventeen seconds and you're already gone",
+  "watermark_checked": true,
+  "video_file": "media/yves-hysteric.mp4",
+  "enqueued_at": "2026-10-28T04:10:02+05:30",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-yves-hysteric-021122.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 17.708,
+    "bytes": 4305920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-10-28T07:41:22+05:30"
+}
