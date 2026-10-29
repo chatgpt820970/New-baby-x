@@ -1,8 +1,8 @@
 {
-  "last_checked_at": "2026-10-30T03:44:13+05:30",
+  "last_checked_at": "2026-10-30T03:49:13+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 6,
+  "ready_count": 8,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
