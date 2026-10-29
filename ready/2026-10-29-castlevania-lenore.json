@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=_qmsx7XLL3s",
+  "caption": "Locked in a cage with a vampire this pretty and he still thinks he's the prisoner",
+  "watermark_checked": true,
+  "video_file": "media/castlevania-lenore.mp4",
+  "enqueued_at": "2026-10-29T13:20:15+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-castlevania-lenore-132037.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 134.875,
+    "bytes": 9665427,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-10-29T18:50:37+05:30"
+}
