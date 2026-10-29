@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-10-29T15:24:52+05:30",
+  "last_checked_at": "2026-10-29T18:46:01+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 6,
+  "ready_count": 5,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-10-29T07:44:43+05:30",
-    "slot": "2026-10-29T07:30+05:30",
-    "buffer_post_id": "6ae2ac147d94db46db2d5fc1",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-rae-nyc-latex-162015.mp4",
-    "source_url": "https://x.com/rae_fitness/status/2115267705855205643",
-    "file": "posted/2026-10-28-rae-nyc-latex.json"
+    "posted_at": "2026-10-29T18:46:01+05:30",
+    "slot": "2026-10-29T18:30+05:30",
+    "buffer_post_id": "6ae347126775ed7b835ddc66",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-chloe-monaleo-182216.mp4",
+    "source_url": "https://x.com/ChloeBailey/status/2112940003840123336",
+    "file": "posted/2026-10-28-chloe-monaleo.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-10-29T07:44:43+05:30"
+  "last_post_at": "2026-10-29T18:46:01+05:30"
 }
