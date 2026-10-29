@@ -1,0 +1,22 @@
+{
+  "source_url": "https://x.com/PopBase/status/2112907488093720823",
+  "caption": "LISA walked in for two seconds and somehow I'm the one who needs to lie down 💀",
+  "watermark_checked": true,
+  "video_file": "media/lisa-tarantino.mp4",
+  "enqueued_at": "2026-10-29T02:18:05+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-lisa-tarantino-021825.mp4",
+  "video_meta": {
+    "width": 3840,
+    "height": 2160,
+    "short_side": 2160,
+    "duration": 10.427,
+    "bytes": 23449864,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-10-29T07:48:25+05:30"
+}
