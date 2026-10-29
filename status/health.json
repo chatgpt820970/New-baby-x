@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-10-29T21:49:34+05:30",
+  "last_checked_at": "2026-10-29T23:49:54+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 8,
+  "ready_count": 7,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-10-29T21:44:52+05:30",
-    "slot": "2026-10-29T21:30+05:30",
-    "buffer_post_id": "6ae370fe1b42fad16d91bde5",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-chloe-pink-beanie-182216.mp4",
-    "source_url": "https://x.com/ChloeBailey/status/2115085174551781850",
-    "file": "posted/2026-10-28-chloe-pink-beanie.json"
+    "posted_at": "2026-10-29T23:49:54+05:30",
+    "slot": "2026-10-29T23:30+05:30",
+    "buffer_post_id": "6ae38e4b5a87bd1f00b194c4",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-28/2026-10-28-normani-red-stage-182216.mp4",
+    "source_url": "https://x.com/Normani/status/2114478770203791728",
+    "file": "posted/2026-10-28-normani-red-stage.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-10-29T21:44:52+05:30"
+  "last_post_at": "2026-10-29T23:49:54+05:30"
 }
