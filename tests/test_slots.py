@@ -36,8 +36,8 @@ class SlotTests(unittest.TestCase):
         self.assertEqual(decision.reason, "none")
         self.assertIsNone(decision.slot)
 
-    def test_slot_opens_twenty_minutes_early(self):
-        now = datetime(2026, 10, 27, 3, 14, tzinfo=IST)
+    def test_slot_opens_thirty_minutes_early(self):
+        now = datetime(2026, 10, 27, 3, 4, tzinfo=IST)
         decision = decide(now, active_from=now)
         self.assertEqual(decision.reason, "due")
         self.assertEqual(slot_id(decision.slot), "2026-10-27T03:30+05:30")

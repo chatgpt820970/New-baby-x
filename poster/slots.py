@@ -3,7 +3,7 @@
 A run publishes at most one slot. Slots that were skipped or delayed stay open
 until a later run fills them, as long as they are still inside the catch-up
 window and at least ``min_minutes_between_posts`` have passed since the last post.
-A slot also opens ``early_minutes`` before its time, because GitHub often runs
+A slot also opens ``early_minutes`` (30) before its time, because GitHub often runs
 the scheduled workflow early-ish and then skips the run right after the slot.
 """
 
@@ -39,7 +39,7 @@ def choose_slot(
     catchup_hours: int,
     active_from: datetime | None,
     initial_grace_minutes: int,
-    early_minutes: int = 20,
+    early_minutes: int = 30,
 ) -> SlotDecision:
     zone = ZoneInfo(timezone)
     current = now.astimezone(zone)
