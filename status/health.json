@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-30T21:44:26+05:30",
+  "last_checked_at": "2026-10-30T23:30:13+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 5,
@@ -15,8 +15,8 @@
     "file": "posted/2026-10-29-castlevania-lenore.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-10-30T23:30+05:30",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",
