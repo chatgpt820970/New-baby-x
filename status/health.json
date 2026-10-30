@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-10-30T07:20:29+05:30",
+  "last_checked_at": "2026-10-30T07:40:56+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 8,
+  "ready_count": 7,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-10-30T03:44:13+05:30",
-    "slot": "2026-10-30T03:30+05:30",
-    "buffer_post_id": "6ae3c536d62dd708c6de314e",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-elle-pink-premiere-005407.mp4",
-    "source_url": "https://x.com/PopCrave/status/2115519158066753771",
-    "file": "posted/2026-10-29-elle-pink-premiere.json"
+    "posted_at": "2026-10-30T07:40:56+05:30",
+    "slot": "2026-10-30T07:30+05:30",
+    "buffer_post_id": "6ae3fcb16385db216a1d3436",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-lisa-tarantino-021825.mp4",
+    "source_url": "https://x.com/PopBase/status/2112907488093720823",
+    "file": "posted/2026-10-29-lisa-tarantino.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-10-30T03:44:13+05:30"
+  "last_post_at": "2026-10-30T07:40:56+05:30"
 }
