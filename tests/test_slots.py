@@ -31,7 +31,7 @@ class SlotTests(unittest.TestCase):
         self.assertEqual(slot_id(decision.slot), "2026-10-27T18:30+05:30")
 
     def test_before_first_slot_posts_nothing(self):
-        now = datetime(2026, 10, 27, 3, 5, tzinfo=IST)
+        now = datetime(2026, 10, 27, 2, 55, tzinfo=IST)
         decision = decide(now, active_from=now)
         self.assertEqual(decision.reason, "none")
         self.assertIsNone(decision.slot)
