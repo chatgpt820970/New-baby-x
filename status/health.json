@@ -1,8 +1,8 @@
 {
-  "last_checked_at": "2026-10-30T14:00:17+05:30",
+  "last_checked_at": "2026-10-30T18:31:38+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 7,
+  "ready_count": 8,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
@@ -15,8 +15,8 @@
     "file": "posted/2026-10-29-lisa-tarantino.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-10-30T18:30+05:30",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",
