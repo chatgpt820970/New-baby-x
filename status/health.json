@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-10-30T23:30:13+05:30",
+  "last_checked_at": "2026-10-30T23:43:21+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 5,
-  "low_queue": false,
+  "ready_count": 4,
+  "low_queue": true,
   "low_queue_threshold": 5,
-  "message": null,
+  "message": "Ready backlog is 4, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
   "last_post": {
-    "posted_at": "2026-10-30T21:44:26+05:30",
-    "slot": "2026-10-30T21:30+05:30",
-    "buffer_post_id": "6ae4c26398505e7f521f6040",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-castlevania-lenore-132037.mp4",
-    "source_url": "https://www.youtube.com/watch?v=_qmsx7XLL3s",
-    "file": "posted/2026-10-29-castlevania-lenore.json"
+    "posted_at": "2026-10-30T23:43:21+05:30",
+    "slot": "2026-10-30T23:30+05:30",
+    "buffer_post_id": "6ae4de4234702c2daac4b42a",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-wuthering-archway-132037.mp4",
+    "source_url": "https://www.youtube.com/watch?v=dmqfu2V95AQ",
+    "file": "posted/2026-10-29-wuthering-archway.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-10-30T23:30+05:30",
-  "next_open_slot_reason": "due",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-10-30T21:44:26+05:30"
+  "last_post_at": "2026-10-30T23:43:21+05:30"
 }
