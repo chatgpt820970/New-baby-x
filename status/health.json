@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-10-30T18:32:43+05:30",
+  "last_checked_at": "2026-10-30T18:51:12+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 7,
+  "ready_count": 6,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-10-30T18:32:43+05:30",
+    "posted_at": "2026-10-30T18:51:12+05:30",
     "slot": "2026-10-30T18:30+05:30",
-    "buffer_post_id": "6ae49574f522e615d3a5585c",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-29/2026-10-29-marvel-love-edit-095452.mp4",
-    "source_url": "https://www.tiktok.com/@hafeyedits5/video/7700261324479073568",
-    "file": "posted/2026-10-29-marvel-love-edit.json"
+    "buffer_post_id": "6ae499c9e266b27191e88707",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-30/2026-10-29-0-kim-greatest-trader-130138.mp4",
+    "source_url": "https://x.com/i/status/2106746765575606429",
+    "file": "posted/2026-10-29-0-kim-greatest-trader.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-10-30T18:32:43+05:30"
+  "last_post_at": "2026-10-30T18:51:12+05:30"
 }
