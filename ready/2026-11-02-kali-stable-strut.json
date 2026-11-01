@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.tiktok.com/@kaliuchis/video/7593917612501912863",
+  "caption": "The horses aren't the ones getting looked at in this barn",
+  "watermark_checked": true,
+  "video_file": "media/kali-stable-strut.mp4",
+  "enqueued_at": "2026-11-01T22:20:43+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-02/2026-11-02-kali-stable-strut-222119.mp4",
+  "video_meta": {
+    "width": 1080,
+    "height": 1920,
+    "short_side": 1080,
+    "duration": 4.133,
+    "bytes": 6409523,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-02T03:51:19+05:30"
+}
