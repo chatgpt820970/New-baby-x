@@ -31,7 +31,7 @@ class SlotTests(unittest.TestCase):
         self.assertEqual(slot_id(decision.slot), "2026-10-27T18:30+05:30")
 
     def test_before_first_slot_posts_nothing(self):
-        now = datetime(2026, 10, 27, 2, 25, tzinfo=IST)
+        now = datetime(2026, 10, 27, 1, 55, tzinfo=IST)
         decision = decide(now, active_from=now)
         self.assertEqual(decision.reason, "none")
         self.assertIsNone(decision.slot)
@@ -41,6 +41,12 @@ class SlotTests(unittest.TestCase):
         decision = decide(now, active_from=now)
         self.assertEqual(decision.reason, "due")
         self.assertEqual(slot_id(decision.slot), "2026-10-27T03:30+05:30")
+
+    def test_slot_opens_ninety_minutes_early(self):
+        now = datetime(2026, 11, 1, 6, 26, tzinfo=IST)
+        decision = decide(now, active_from=now)
+        self.assertEqual(decision.reason, "due")
+        self.assertEqual(slot_id(decision.slot), "2026-11-01T07:30+05:30")
 
     def test_catchup_is_oldest_open_slot_only(self):
         now = datetime(2026, 10, 27, 19, 0, tzinfo=IST)
