@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.tiktok.com/@madisonbeer/video/7669083282826480927",
+  "caption": "Car's parked, engine's off, and somehow it's still getting hotter in there",
+  "watermark_checked": true,
+  "video_file": "media/madison-car-selfie.mp4",
+  "enqueued_at": "2026-11-01T16:20:12+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-01/2026-11-01-madison-car-selfie-162036.mp4",
+  "video_meta": {
+    "width": 1080,
+    "height": 1920,
+    "short_side": 1080,
+    "duration": 10.567,
+    "bytes": 28993349,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-01T21:50:36+05:30"
+}
