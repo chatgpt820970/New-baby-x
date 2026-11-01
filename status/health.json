@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-11-01T21:50:36+05:30",
+  "last_checked_at": "2026-11-01T23:44:43+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 5,
-  "low_queue": false,
+  "ready_count": 4,
+  "low_queue": true,
   "low_queue_threshold": 5,
-  "message": null,
+  "message": "Ready backlog is 4, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
   "last_post": {
-    "posted_at": "2026-11-01T21:47:53+05:30",
-    "slot": "2026-11-01T21:30+05:30",
-    "buffer_post_id": "6ae766328755094b82925e03",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-31/2026-10-31-rita-dolly-halloween-161952.mp4",
-    "source_url": "https://www.tiktok.com/@ritaora/video/7702616682518547735",
-    "file": "posted/2026-10-31-rita-dolly-halloween.json"
+    "posted_at": "2026-11-01T23:44:43+05:30",
+    "slot": "2026-11-01T23:30+05:30",
+    "buffer_post_id": "6ae781957c4e5559266c9c8e",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-10-31/2026-10-31-tate-catwoman-161952.mp4",
+    "source_url": "https://x.com/SexedUpSingers/status/2116475210564329898",
+    "file": "posted/2026-10-31-tate-catwoman.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-01T21:47:53+05:30"
+  "last_post_at": "2026-11-01T23:44:43+05:30"
 }
