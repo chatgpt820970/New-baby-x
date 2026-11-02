@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-11-03T03:12:52+05:30",
+  "last_checked_at": "2026-11-03T03:46:55+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 5,
-  "low_queue": false,
+  "ready_count": 4,
+  "low_queue": true,
   "low_queue_threshold": 5,
-  "message": null,
+  "message": "Ready backlog is 4, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
   "last_post": {
-    "posted_at": "2026-11-02T23:56:09+05:30",
-    "slot": "2026-11-02T23:30+05:30",
-    "buffer_post_id": "6ae8d5c2c1e1a07104372fa7",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-01/2026-11-01-normani-gold-shoot-181758.mp4",
-    "source_url": "https://www.tiktok.com/@normani/video/7647297826979925261",
-    "file": "posted/2026-11-01-normani-gold-shoot.json"
+    "posted_at": "2026-11-03T03:46:55+05:30",
+    "slot": "2026-11-03T03:30+05:30",
+    "buffer_post_id": "6ae90bd890c1e19b034a8500",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-02/2026-11-02-kali-stable-strut-222119.mp4",
+    "source_url": "https://www.tiktok.com/@kaliuchis/video/7593917612501912863",
+    "file": "posted/2026-11-02-kali-stable-strut.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-03T03:30+05:30",
-  "next_open_slot_reason": "due",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-02T23:56:09+05:30"
+  "last_post_at": "2026-11-03T03:46:55+05:30"
 }
