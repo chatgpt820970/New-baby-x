@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-02T03:51:19+05:30",
+  "last_checked_at": "2026-11-02T06:12:11+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 5,
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-01-zara-lush-life.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-11-02T07:30+05:30",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",
