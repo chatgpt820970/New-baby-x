@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=5lSCIAQLDic",
+  "caption": "She says it's hard looking like that. Try being the guy in the room",
+  "watermark_checked": true,
+  "video_file": "media/jessica-office-visit.mp4",
+  "enqueued_at": "2026-11-03T02:21:05+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-03/2026-11-03-jessica-office-visit-022125.mp4",
+  "video_meta": {
+    "width": 2010,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 99.5,
+    "bytes": 45915754,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-03T07:51:25+05:30"
+}
