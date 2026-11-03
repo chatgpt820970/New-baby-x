@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=MDB5eFskLBg",
+  "caption": "Never trusted a clown until this one started moving like that",
+  "watermark_checked": true,
+  "video_file": "media/fizz-look-at-this.mp4",
+  "enqueued_at": "2026-11-03T18:51:11+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-04/2026-11-04-fizz-look-at-this-185135.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 138.458,
+    "bytes": 89264555,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-04T00:21:35+05:30"
+}
