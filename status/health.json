@@ -1,8 +1,8 @@
 {
-  "last_checked_at": "2026-11-03T21:47:53+05:30",
+  "last_checked_at": "2026-11-03T22:02:50+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 5,
+  "ready_count": 7,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-02-arcane-caitvi-kiss.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-11-03T23:30+05:30",
+  "next_open_slot_reason": "gap",
   "slots": [
     "03:30",
     "07:30",
