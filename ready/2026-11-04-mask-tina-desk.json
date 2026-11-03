@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=9-rA_w9j_90",
+  "caption": "She walked into a bank and he's the one who got robbed",
+  "watermark_checked": true,
+  "video_file": "media/mask-tina-desk.mp4",
+  "enqueued_at": "2026-11-03T22:27:23+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-04/2026-11-04-mask-tina-desk-222747.mp4",
+  "video_meta": {
+    "width": 1480,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 91.917,
+    "bytes": 37769382,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-04T03:57:47+05:30"
+}
