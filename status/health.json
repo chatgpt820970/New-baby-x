@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-11-04T23:47:07+05:30",
+  "last_checked_at": "2026-11-05T02:23:43+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 7,
+  "ready_count": 6,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-04T23:47:07+05:30",
-    "slot": "2026-11-04T23:30+05:30",
-    "buffer_post_id": "6aeb76a4ed27fe14cf9c0b96",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-03/2026-11-03-dua-houdini-studio-163250.mp4",
-    "source_url": "https://www.youtube.com/watch?v=suAR1PYFNYA",
-    "file": "posted/2026-11-03-dua-houdini-studio.json"
+    "posted_at": "2026-11-05T02:23:43+05:30",
+    "slot": "2026-11-05T03:30+05:30",
+    "buffer_post_id": "6aeb9b58f0e1705c28e68697",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-03/2026-11-03-tate-sports-car-163250.mp4",
+    "source_url": "https://www.youtube.com/watch?v=7InTkBxPtK4",
+    "file": "posted/2026-11-03-tate-sports-car.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-04T23:47:07+05:30"
+  "last_post_at": "2026-11-05T02:23:43+05:30"
 }
