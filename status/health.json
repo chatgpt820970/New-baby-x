@@ -1,8 +1,8 @@
 {
-  "last_checked_at": "2026-11-05T21:18:02+05:30",
+  "last_checked_at": "2026-11-05T22:07:23+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 5,
+  "ready_count": 6,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-04-flashdance-water-audition.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-11-05T23:30+05:30",
+  "next_open_slot_reason": "gap",
   "slots": [
     "03:30",
     "07:30",
