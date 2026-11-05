@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-11-05T22:53:32+05:30",
+  "last_checked_at": "2026-11-05T23:46:51+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 6,
+  "ready_count": 5,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-05T21:18:02+05:30",
-    "slot": "2026-11-05T21:30+05:30",
-    "buffer_post_id": "6aeca5389b4d9c55762ee066",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-04/2026-11-04-flashdance-water-audition-023645.mp4",
-    "source_url": "https://www.youtube.com/watch?v=bYn8G5yShzY",
-    "file": "posted/2026-11-04-flashdance-water-audition.json"
+    "posted_at": "2026-11-05T23:46:51+05:30",
+    "slot": "2026-11-05T23:30+05:30",
+    "buffer_post_id": "6aecc8140e16d1231108293d",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-04/2026-11-04-bella-vs-opener-133611.mp4",
+    "source_url": "https://www.youtube.com/watch?v=JNx8H6h_mjk",
+    "file": "posted/2026-11-04-bella-vs-opener.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-05T23:30+05:30",
-  "next_open_slot_reason": "due",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-05T21:18:02+05:30"
+  "last_post_at": "2026-11-05T23:46:51+05:30"
 }
