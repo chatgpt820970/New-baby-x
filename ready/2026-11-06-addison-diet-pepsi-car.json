@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=Hki6RqI-eMA",
+  "caption": "Fogged up the windows and somehow I'm the one who can't see straight",
+  "watermark_checked": true,
+  "video_file": "media/addison-diet-pepsi-car.mp4",
+  "enqueued_at": "2026-11-05T18:48:19+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-06/2026-11-06-addison-diet-pepsi-car-184842.mp4",
+  "video_meta": {
+    "width": 1786,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 138.0,
+    "bytes": 97488824,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-06T00:18:42+05:30"
+}
