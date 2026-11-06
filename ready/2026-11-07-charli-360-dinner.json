@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=WJW-VvmRKsE",
+  "caption": "She took the head of the table and nobody remembered why they sat down",
+  "watermark_checked": true,
+  "video_file": "media/charli-360-dinner.mp4",
+  "enqueued_at": "2026-11-06T22:26:31+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-charli-360-dinner-222654.mp4",
+  "video_meta": {
+    "width": 1440,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 103.02,
+    "bytes": 27675806,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-07T03:56:54+05:30"
+}
