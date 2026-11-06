@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-11-06T22:22:47+05:30",
+  "last_checked_at": "2026-11-06T22:57:43+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 8,
+  "ready_count": 7,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-06T21:50:38+05:30",
-    "slot": "2026-11-06T21:30+05:30",
-    "buffer_post_id": "6aedfe58af7e526d43c88010",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-05/2026-11-05-jennie-mantra-strut-132130.mp4",
-    "source_url": "https://www.youtube.com/watch?v=bB3-CUMERIU",
-    "file": "posted/2026-11-05-jennie-mantra-strut.json"
+    "posted_at": "2026-11-06T22:57:43+05:30",
+    "slot": "2026-11-06T23:30+05:30",
+    "buffer_post_id": "6aee0e10a7751de7c998e6fd",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-05/2026-11-05-salma-snake-dance-163723.mp4",
+    "source_url": "https://www.youtube.com/watch?v=ulXwOrErdrk",
+    "file": "posted/2026-11-05-salma-snake-dance.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-06T23:30+05:30",
-  "next_open_slot_reason": "gap",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-06T21:50:38+05:30"
+  "last_post_at": "2026-11-06T22:57:43+05:30"
 }
