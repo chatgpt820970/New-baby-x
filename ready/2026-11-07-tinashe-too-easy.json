@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=_9smBd1h7Uw",
+  "caption": "Said it was too easy then made the whole studio forget how to breathe",
+  "watermark_checked": true,
+  "video_file": "media/tinashe-too-easy.mp4",
+  "enqueued_at": "2026-11-07T13:21:32+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-tinashe-too-easy-132209.mp4",
+  "video_meta": {
+    "width": 1440,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 128.003,
+    "bytes": 64224680,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-07T18:52:09+05:30"
+}
