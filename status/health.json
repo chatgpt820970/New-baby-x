@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-11-07T21:24:24+05:30",
+  "last_checked_at": "2026-11-07T23:30:28+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 11,
+  "ready_count": 10,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-07T21:24:24+05:30",
-    "slot": "2026-11-07T21:30+05:30",
-    "buffer_post_id": "6aef49b2004e4879a766691d",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-06/2026-11-06-poor-things-ballroom-223747.mp4",
-    "source_url": "https://www.youtube.com/watch?v=SEBGdjkPtRo",
-    "file": "posted/2026-11-06-poor-things-ballroom.json"
+    "posted_at": "2026-11-07T23:30:28+05:30",
+    "slot": "2026-11-07T23:30+05:30",
+    "buffer_post_id": "6aef673e51492b796ef0b396",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-06/2026-11-06-lisa-tyla-wiwy-022418.mp4",
+    "source_url": "https://www.youtube.com/watch?v=wM--5vGraQQ",
+    "file": "posted/2026-11-06-lisa-tyla-wiwy.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-07T21:24:24+05:30"
+  "last_post_at": "2026-11-07T23:30:28+05:30"
 }
