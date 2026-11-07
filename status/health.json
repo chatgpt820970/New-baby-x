@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-07T14:43:12+05:30",
+  "last_checked_at": "2026-11-07T18:26:52+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 11,
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-06-victoria-onmymama-lot.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-11-07T18:30+05:30",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",
