@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=6o7bCAZSxsg",
+  "caption": "Pink hair, a wheelie, and every red light went personal",
+  "watermark_checked": true,
+  "video_file": "media/rosalia-saoko.mp4",
+  "enqueued_at": "2026-11-07T22:23:01+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-08/2026-11-08-rosalia-saoko-222329.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 138.0,
+    "bytes": 85721901,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-08T03:53:29+05:30"
+}

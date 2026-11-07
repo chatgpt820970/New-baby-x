@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=YkLjqFpBh84",
+  "caption": "Learned the pole for one song and somehow I'm the one who fell",
+  "watermark_checked": true,
+  "video_file": "media/twigs-cellophane.mp4",
+  "enqueued_at": "2026-11-07T22:23:01+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-08/2026-11-08-twigs-cellophane-222329.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 138.0,
+    "bytes": 55499319,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-08T03:53:29+05:30"
+}
