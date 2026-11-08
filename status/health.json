@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-11-09T03:33:58+05:30",
+  "last_checked_at": "2026-11-09T03:44:03+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 7,
+  "ready_count": 6,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-08T23:46:32+05:30",
-    "slot": "2026-11-08T23:30+05:30",
-    "buffer_post_id": "6af0bc81d6bbae6fa103ea00",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-carmilla-snow-222654.mp4",
-    "source_url": "https://www.youtube.com/watch?v=LpmcEHJbBYs",
-    "file": "posted/2026-11-07-carmilla-snow.json"
+    "posted_at": "2026-11-09T03:44:03+05:30",
+    "slot": "2026-11-09T03:30+05:30",
+    "buffer_post_id": "6af0f42d51492b796e64f7a1",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-charli-360-dinner-222654.mp4",
+    "source_url": "https://www.youtube.com/watch?v=WJW-VvmRKsE",
+    "file": "posted/2026-11-07-charli-360-dinner.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-09T03:30+05:30",
-  "next_open_slot_reason": "due",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-08T23:46:32+05:30"
+  "last_post_at": "2026-11-09T03:44:03+05:30"
 }
