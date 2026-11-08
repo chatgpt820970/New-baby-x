@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-11-08T18:47:01+05:30",
+  "last_checked_at": "2026-11-08T21:47:31+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 9,
+  "ready_count": 8,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-08T18:47:01+05:30",
-    "slot": "2026-11-08T18:30+05:30",
-    "buffer_post_id": "6af0764f004e4879a7bbae39",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-catwoman-mall-meow-191446.mp4",
-    "source_url": "https://www.youtube.com/watch?v=ZZKj_uz1a1I",
-    "file": "posted/2026-11-07-catwoman-mall-meow.json"
+    "posted_at": "2026-11-08T21:47:31+05:30",
+    "slot": "2026-11-08T21:30+05:30",
+    "buffer_post_id": "6af0a09c562f2e6de9cb9281",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-helluva-overyou-191446.mp4",
+    "source_url": "https://www.youtube.com/watch?v=UED20fQ6jcY",
+    "file": "posted/2026-11-07-helluva-overyou.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-08T18:47:01+05:30"
+  "last_post_at": "2026-11-08T21:47:31+05:30"
 }
