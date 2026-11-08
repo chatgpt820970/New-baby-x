@@ -29,8 +29,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
           persist-credentials: true
+
+      - name: Sync to latest main (avoid re-posting a slot an earlier queued run already posted)
+        run: git pull --ff-only origin main
 
       - name: Set up Python
         uses: actions/setup-python@v5
