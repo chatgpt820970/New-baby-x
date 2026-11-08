@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-11-08T14:23:39+05:30",
+  "last_checked_at": "2026-11-08T18:45:20+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 10,
+  "ready_count": 9,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-08T06:48:32+05:30",
-    "slot": "2026-11-08T07:30+05:30",
-    "buffer_post_id": "6aefcdea51492b796e0e541f",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-06/2026-11-06-fine-vampire-ball-165247.mp4",
-    "source_url": "https://www.youtube.com/watch?v=pu0KMmx81LU",
-    "file": "posted/2026-11-06-fine-vampire-ball.json"
+    "posted_at": "2026-11-08T18:45:20+05:30",
+    "slot": "2026-11-08T18:30+05:30",
+    "buffer_post_id": "6af075ea9214322f68554160",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-catwoman-mall-meow-191446.mp4",
+    "source_url": "https://www.youtube.com/watch?v=ZZKj_uz1a1I",
+    "file": "posted/2026-11-07-catwoman-mall-meow.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-08T06:48:32+05:30"
+  "last_post_at": "2026-11-08T18:45:20+05:30"
 }
