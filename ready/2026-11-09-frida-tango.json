@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/playlist?list=PLHLYMMYCXqijiBNcE8opMs9UIsKHq5uet",
+  "caption": "Out-drank every man in the room and the prize was this dance",
+  "watermark_checked": true,
+  "video_file": "media/frida-tango.mp4",
+  "enqueued_at": "2026-11-09T02:20:56+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-09/2026-11-09-frida-tango-022120.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 130.005,
+    "bytes": 47093344,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-09T07:51:20+05:30"
+}
