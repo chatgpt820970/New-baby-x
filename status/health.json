@@ -1,18 +1,18 @@
 {
-  "last_checked_at": "2026-11-10T01:17:15+05:30",
+  "last_checked_at": "2026-11-10T02:10:28+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 6,
+  "ready_count": 5,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-09T21:55:56+05:30",
-    "slot": "2026-11-09T21:30+05:30",
-    "buffer_post_id": "6af1f415910ac490b30bf425",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-07/2026-11-07-tinashe-too-easy-132209.mp4",
-    "source_url": "https://www.youtube.com/watch?v=_9smBd1h7Uw",
-    "file": "posted/2026-11-07-tinashe-too-easy.json"
+    "posted_at": "2026-11-10T02:10:28+05:30",
+    "slot": "2026-11-10T03:30+05:30",
+    "buffer_post_id": "6af22fbd7396c0abbdd8c1db",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-08/2026-11-08-rosalia-saoko-222329.mp4",
+    "source_url": "https://www.youtube.com/watch?v=6o7bCAZSxsg",
+    "file": "posted/2026-11-08-rosalia-saoko.json"
   },
   "failures_last_24h": [],
   "next_open_slot": null,
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-09T21:55:56+05:30"
+  "last_post_at": "2026-11-10T02:10:28+05:30"
 }
