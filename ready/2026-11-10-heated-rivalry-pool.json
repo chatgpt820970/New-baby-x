@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=bSMnNF-yGY4",
+  "caption": "He cannonballed into that pool and somehow I'm the one drowning",
+  "watermark_checked": true,
+  "video_file": "media/heated-rivalry-pool.mp4",
+  "enqueued_at": "2026-11-09T22:21:05+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-10/2026-11-10-heated-rivalry-pool-222131.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 90.507,
+    "bytes": 78947952,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-10T03:51:31+05:30"
+}
