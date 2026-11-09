@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-11-09T21:55:56+05:30",
+  "last_checked_at": "2026-11-09T22:13:24+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 4,
-  "low_queue": true,
+  "ready_count": 6,
+  "low_queue": false,
   "low_queue_threshold": 5,
-  "message": "Ready backlog is 4, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
+  "message": null,
   "last_post": {
     "posted_at": "2026-11-09T21:55:56+05:30",
     "slot": "2026-11-09T21:30+05:30",
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-07-tinashe-too-easy.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-11-09T23:30+05:30",
+  "next_open_slot_reason": "gap",
   "slots": [
     "03:30",
     "07:30",
