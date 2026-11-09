@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-09T22:13:24+05:30",
+  "last_checked_at": "2026-11-10T01:17:15+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 6,
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-07-tinashe-too-easy.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-09T23:30+05:30",
-  "next_open_slot_reason": "gap",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
