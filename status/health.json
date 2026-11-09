@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-11-09T18:44:18+05:30",
+  "last_checked_at": "2026-11-09T18:47:02+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 4,
-  "low_queue": true,
+  "ready_count": 5,
+  "low_queue": false,
   "low_queue_threshold": 5,
-  "message": "Ready backlog is 4, below 5. Unprepared queue items: 0. Refill queue/ with watermark-checked clips.",
+  "message": null,
   "last_post": {
     "posted_at": "2026-11-09T18:44:18+05:30",
     "slot": "2026-11-09T18:30+05:30",
@@ -14,15 +14,7 @@
     "source_url": "https://www.youtube.com/watch?v=VjtrfCDDelQ",
     "file": "posted/2026-11-07-megan-lover-girl.json"
   },
-  "failures_last_24h": [
-    {
-      "failed_at": "2026-11-09T18:44:18+05:30",
-      "file": "failed/2026-11-07-shall-we-dance.json",
-      "stage": "buffer",
-      "error": "Invalid post: Video must be no longer than 2m 20s for X (Twitter).",
-      "source_url": "https://www.youtube.com/watch?v=b24a_2NPleg"
-    }
-  ],
+  "failures_last_24h": [],
   "next_open_slot": null,
   "next_open_slot_reason": "none",
   "slots": [

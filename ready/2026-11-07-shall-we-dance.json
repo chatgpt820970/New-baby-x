@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=b24a_2NPleg",
+  "caption": "Said he just wanted lessons then danced like he meant something else",
+  "watermark_checked": true,
+  "video_file": "media/shall-we-dance.mp4",
+  "enqueued_at": "2026-11-09T13:16:37+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-09/2026-11-07-shall-we-dance-131702.mp4",
+  "video_meta": {
+    "width": 1920,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 137.595,
+    "bytes": 66977545,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-09T18:47:02+05:30"
+}
