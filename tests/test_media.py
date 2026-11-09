@@ -35,7 +35,7 @@ class QualityRuleTests(unittest.TestCase):
         self.assertEqual(self.config.min_short_side, 1080)
         self.assertEqual(self.config.timezone, "Asia/Kolkata")
         self.assertEqual(self.config.slots, ("03:30", "07:30", "18:30", "21:30", "23:30"))
-        self.assertEqual(self.config.max_duration_seconds, 140)
+        self.assertEqual(self.config.max_duration_seconds, 138)
         self.assertTrue(self.config.trim_to_max_duration)
 
     def test_landscape_and_vertical_1080_pass_and_720_fails(self):
