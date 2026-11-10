@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-11-10T22:04:07+05:30",
+  "last_checked_at": "2026-11-10T23:44:04+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 6,
+  "ready_count": 5,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-10T21:40:42+05:30",
-    "slot": "2026-11-10T21:30+05:30",
-    "buffer_post_id": "6af34204825741bba843a880",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-09/2026-11-07-shall-we-dance-131702.mp4",
-    "source_url": "https://www.youtube.com/watch?v=b24a_2NPleg",
-    "file": "posted/2026-11-07-shall-we-dance.json"
+    "posted_at": "2026-11-10T23:44:04+05:30",
+    "slot": "2026-11-10T23:30+05:30",
+    "buffer_post_id": "6af35eed0649793ed2fea2d3",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-09/2026-11-09-lupin-fujiko-sherlock-164324.mp4",
+    "source_url": "https://www.youtube.com/watch?v=2fK_8YFy9dA",
+    "file": "posted/2026-11-09-lupin-fujiko-sherlock.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-10T23:30+05:30",
-  "next_open_slot_reason": "gap",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-10T21:40:42+05:30"
+  "last_post_at": "2026-11-10T23:44:04+05:30"
 }
