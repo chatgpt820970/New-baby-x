@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-10T18:57:01+05:30",
+  "last_checked_at": "2026-11-10T20:23:09+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 6,
@@ -15,8 +15,8 @@
     "file": "posted/2026-11-09-frida-tango.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": null,
-  "next_open_slot_reason": "none",
+  "next_open_slot": "2026-11-10T21:30+05:30",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",
