@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=XoiOOiuH8iI",
+  "caption": "Asked for water. Left the whole room thirsty.",
+  "watermark_checked": true,
+  "video_file": "media/tyla-water-rooftop.mp4",
+  "enqueued_at": "2026-11-10T13:26:30+00:00",
+  "ready": true,
+  "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-10/2026-11-10-tyla-water-rooftop-132701.mp4",
+  "video_meta": {
+    "width": 1800,
+    "height": 1080,
+    "short_side": 1080,
+    "duration": 132.507,
+    "bytes": 90308926,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pix_fmt": "yuv420p",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "trimmed": false,
+  "prepared_at": "2026-11-10T18:57:01+05:30"
+}
