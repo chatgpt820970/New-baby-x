@@ -1,22 +1,22 @@
 {
-  "last_checked_at": "2026-11-10T20:23:09+05:30",
+  "last_checked_at": "2026-11-10T21:40:42+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
-  "ready_count": 6,
+  "ready_count": 5,
   "low_queue": false,
   "low_queue_threshold": 5,
   "message": null,
   "last_post": {
-    "posted_at": "2026-11-10T17:22:51+05:30",
-    "slot": "2026-11-10T18:30+05:30",
-    "buffer_post_id": "6af30594b77a05a0562e2376",
-    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-09/2026-11-09-frida-tango-022120.mp4",
-    "source_url": "https://www.youtube.com/playlist?list=PLHLYMMYCXqijiBNcE8opMs9UIsKHq5uet",
-    "file": "posted/2026-11-09-frida-tango.json"
+    "posted_at": "2026-11-10T21:40:42+05:30",
+    "slot": "2026-11-10T21:30+05:30",
+    "buffer_post_id": "6af34204825741bba843a880",
+    "release_asset_url": "https://github.com/chatgpt820970/New-baby-x/releases/download/clips-2026-11-09/2026-11-07-shall-we-dance-131702.mp4",
+    "source_url": "https://www.youtube.com/watch?v=b24a_2NPleg",
+    "file": "posted/2026-11-07-shall-we-dance.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-10T21:30+05:30",
-  "next_open_slot_reason": "due",
+  "next_open_slot": null,
+  "next_open_slot_reason": "none",
   "slots": [
     "03:30",
     "07:30",
@@ -26,5 +26,5 @@
   ],
   "min_short_side": 1080,
   "active_from": "2026-10-28T03:10:27+05:30",
-  "last_post_at": "2026-11-10T17:22:51+05:30"
+  "last_post_at": "2026-11-10T21:40:42+05:30"
 }
