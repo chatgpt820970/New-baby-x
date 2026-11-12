@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-13T01:22:05+05:30",
+  "last_checked_at": "2026-11-13T05:07:41+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 1,
@@ -16,7 +16,7 @@
   },
   "failures_last_24h": [],
   "next_open_slot": "2026-11-12T18:30+05:30",
-  "next_open_slot_reason": "gap",
+  "next_open_slot_reason": "due",
   "slots": [
     "03:30",
     "07:30",
