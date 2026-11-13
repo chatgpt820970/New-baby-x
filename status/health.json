@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-13T21:44:40+05:30",
+  "last_checked_at": "2026-11-14T01:57:56+05:30",
   "timezone": "Asia/Kolkata",
   "queue_count": 0,
   "ready_count": 0,
@@ -15,7 +15,7 @@
     "file": "posted/2026-11-11-helluva-ozzies-lust.json"
   },
   "failures_last_24h": [],
-  "next_open_slot": "2026-11-12T23:30+05:30",
+  "next_open_slot": "2026-11-13T03:30+05:30",
   "next_open_slot_reason": "due",
   "slots": [
     "03:30",
